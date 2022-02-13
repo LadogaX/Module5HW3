@@ -281,7 +281,6 @@ crossrootfs
 #python import files
 .pyc
 
-
 .idea
 .generated-resources
 .terraform
